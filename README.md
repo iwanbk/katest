@@ -1,4 +1,3 @@
 # katest
 
-1st update..dadada
-dududud
+1st update.
